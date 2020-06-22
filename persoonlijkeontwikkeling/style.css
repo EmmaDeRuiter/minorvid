@@ -21,7 +21,10 @@ nav {
     left: 0;
     font-family: 'Unkempt', cursive;
 }
-
+nav a {
+    text-decoration: none;
+    color: black;
+}
 h1 {
     font-family: 'Unkempt', cursive;
     text-align: center;
